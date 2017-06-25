@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FitnessReminder</string>
+
+    <string name="tab_name_exercises">Упражнения</string>
+    <string name="tab_name_programm">Программа</string>
+
+    <string name="exercise_title">Наименование</string>
+    <string name="exercise_date">Дата</string>
+
+    <string name="dialog_editing_title">Редактирование упражнения</string>
+    <string name="dialog_removing_message">Вы действительно хотите удалить запись?</string>
+    <string name="removed">Удаление</string>
+
+    <string name="dialog_title">Добавление упражнения</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_error_empty_title">Пожалуйста, введите наименование упражнения!</string>
+
+    <string name="separator_overdue">Overdue</string>
+    <string name="separator_today">Today</string>
+    <string name="separator_tomorrow">Tomorrow</string>
+    <string name="separator_future">Future</string>
+
+</resources>
