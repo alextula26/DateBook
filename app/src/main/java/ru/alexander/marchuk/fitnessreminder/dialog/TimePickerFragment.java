@@ -9,4 +9,6 @@ public class TimePickerFragment extends DialogFragment {
     public int d;
     public int e;
 
+    public String BRANCH = "HELLO NE BRANCH";
+
 }
