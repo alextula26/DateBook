@@ -8,8 +8,5 @@ public class TimePickerFragment extends DialogFragment {
     public int c;
     public int d;
     public int e;
-    public String BRANCH = "Branch master";
-
-    public String BRANCH = "HELLO NE BRANCH";
-
+    public String BRANCH = "BRANCH";
 }
